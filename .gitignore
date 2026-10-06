@@ -31,13 +31,8 @@ compile_commands.json
 
 # ==========================================
 # VS Code
-# (Track shared settings, ignore local cache/state)
 # ==========================================
-.vscode/*
-!.vscode/settings.json
-!.vscode/c_cpp_properties.json
-!.vscode/launch.json
-!.vscode/tasks.json
+.vscode/
 
 # ==========================================
 # macOS System Files
